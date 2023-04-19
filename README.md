@@ -5,4 +5,4 @@ The app was created with the goal of speeding up creation of PyAutoGUI scripts a
 
 Support further developement by getting the Windows and MacOS executables on https://pyautogui2.com
 
-![alt text](https://fastly.picsum.photos/id/219/536/354.jpg?hmac=mPL--X9iqKLn_R27yfpUtEPbp5_DuUJQ--mUEGB0FfQ)
+![demo gif](https://fastly.picsum.photos/id/219/536/354.jpg?hmac=mPL--X9iqKLn_R27yfpUtEPbp5_DuUJQ--mUEGB0FfQ)
