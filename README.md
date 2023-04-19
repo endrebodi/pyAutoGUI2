@@ -1,7 +1,5 @@
 # PyAutoGUI2
-A GUI interface for PyAutoGUI.
-
-PyAutoGUI2 stands for PyAutoGUI GUI.
+PyAutoGUI2 stands for PyAutoGUI GUI, it's a GUI interface for PyAutoGUI.
 
 The app was created with the goal of speeding up creation of PyAutoGUI scripts and it does just that.
 
