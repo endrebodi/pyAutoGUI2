@@ -5,4 +5,6 @@ The app was created with the goal of speeding up creation of PyAutoGUI scripts a
 
 Support further developement by getting the Windows and MacOS executables on https://pyautogui2.com
 
-![demo gif](https://fastly.picsum.photos/id/219/536/354.jpg?hmac=mPL--X9iqKLn_R27yfpUtEPbp5_DuUJQ--mUEGB0FfQ)
+<video width="100%" controls>
+  <source src="https://github.com/endrebodi/pyautogui2/raw/master/demo.webm" type="video/webm">
+</video>
